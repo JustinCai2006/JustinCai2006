@@ -1,5 +1,5 @@
 
-Justin Cai
-646-623-6698
-cai.jus@northeastern.edu
-Undergraduate at Northeastern University 
+Name: Justin Cai
+Major: Computer Science & Business Administration 
+Expected Graduation Date: Spring 2028
+
